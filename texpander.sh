@@ -14,7 +14,7 @@ shopt -s globstar
 
 abbrvs=$(find "${base_dir}" -type f | sort | sed "s?^${base_dir}/??g" )
 
-name=$(zenity --list --title=Texpander --width=275 --height=400 --column=Abbreviations $abbrvs)
+name=$(zenity --list --title=Support-Helper-By-RP --width=275 --height=400 --column=Abbreviations $abbrvs)
 
 path="${base_dir}/${name}"
 
