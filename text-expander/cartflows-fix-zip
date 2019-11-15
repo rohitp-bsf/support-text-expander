@@ -1,0 +1,17 @@
+We have fixed your reported issue and will be released in the next update, meanwhile, you can download the updated zip from here. (https://cl.ly/27f9ee845f59)
+
+Please follow the below steps to update the zip on the site.
+
+1. Take a full backup of your website including the database. ( Try it on staging site instead of doing it on the live version )
+
+2. Download the latest version from here.
+
+3. Deactivate & delete the `CartFlows Pro` Plugin.
+
+4. Goto Plugins -> add new -> upload button and select the latest `CartFlows Pro` zip which you have downloaded in step 2.
+
+5. Click install & activate the plugin.
+
+Let me know if you still facing any issue.
+
+Happy to serve!
